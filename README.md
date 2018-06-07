@@ -1,10 +1,6 @@
 # 
 
-This is the working area for the IETF [IASA2 Working Group](https://datatracker.ietf.org/wg/iasa2/documents/) Internet-Draft, "".
-
-* [Editor's Copy](https://josephlhall.github.io/draft-ietf-iasa2-bcp/#go.draft-ietf-iasa2-bcp.html)
-* [Working Group Draft](https://tools.ietf.org/html/draft-ietf-iasa2-bcp)
-* [Compare Editor's Copy to Working Group Draft](https://josephlhall.github.io/draft-ietf-iasa2-bcp/#go.draft-ietf-iasa2-bcp.diff)
+This is the working area for the IETF [IASA2 Working Group](https://datatracker.ietf.org/wg/iasa2/documents/) Internet-Draft, "IAB, IESG, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees".
 
 ## Building the Draft
 
