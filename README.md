@@ -17,4 +17,4 @@ This requires that you have the necessary software installed.  See
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/josephlhall/draft-ietf-iasa2-bcp/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/jlivingood/IAB-IESG-IETF-LLC-Selection-Confirmation-Recall-Process/blob/master/CONTRIBUTING.md).
