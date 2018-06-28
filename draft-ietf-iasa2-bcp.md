@@ -1,8 +1,8 @@
 ---
 
-title: Structure of the IETF Administrative Support Activity 2.0 (IASA2)
-abbrev: IASA 2.0 BCP
-docname: draft-ietf-iasa2-bcp-latest
+title: IAB, IESG, and IETF Administration LLC Board Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees
+abbrev: Selection Process BCP
+docname: draft-livingood-IAB-IESG-IETF-LLC-Selection-Confirmation-Recall-Process
 category: bcp
 
 ipr: trust200902
