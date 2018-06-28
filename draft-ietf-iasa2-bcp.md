@@ -10,6 +10,9 @@ area: General
 keyword: Internet-Draft
 category: bcp
 wg: iasa2
+updates: BCP 113
+obsoletes: RFC 4333
+obsoletes: RFC 7437
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
