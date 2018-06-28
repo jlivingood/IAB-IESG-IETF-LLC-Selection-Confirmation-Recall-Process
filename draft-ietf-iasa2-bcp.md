@@ -11,8 +11,7 @@ keyword: Internet-Draft
 category: bcp
 wg: iasa2
 updates: BCP 113
-obsoletes: RFC 4333
-obsoletes: RFC 7437
+obsoletes: RFC 3777, 4333, 5078, 5633, 5680, 6859, 7437
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
