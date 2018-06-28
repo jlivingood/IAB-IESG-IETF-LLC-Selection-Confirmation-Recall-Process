@@ -1,6 +1,6 @@
 # 
 
-This is the working area for the IETF [IASA2 Working Group](https://datatracker.ietf.org/wg/iasa2/documents/) Internet-Draft, "IAB, IESG, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees".
+This is the working area for the IETF [IASA2 Working Group](https://datatracker.ietf.org/wg/iasa2/documents/) Internet-Draft, "IAB, IESG, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees". It will replace RFC 7437 / BCP 113.
 
 ## Building the Draft
 
