@@ -28,45 +28,30 @@ author:
     organization: Comcast
     email: jason_livingood@comcast.com
 
-(OLD REFS - NEED TO BE UPDATED)
+normative
 
-normative:
-
-   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
-              3", BCP 9, RFC 2026, October 1996.
-
-   [RFC3716]  IAB Advisory Committee, "The IETF in the Large:
-              Administration and Execution", RFC 3716, March 2004.
+   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710, February
+              2004, <http://www.rfc-editor.org/info/rfc3710>.
 
    [RFC3777]  Galvin, J., "IAB and IESG Selection, Confirmation, and
               Recall Process: Operation of the Nominating and Recall
-              Committees", BCP 10, RFC 3777, June 2004.
+              Committees", BCP 10, RFC 3777, June 2004,
+              <http://www.rfc-editor.org/info/rfc3777>.
 
-informative:
+   [RFC4071]  Austein, R. and B. Wijnen, "Structure of the IETF
+              Administrative Support Activity (IASA)", BCP 101, RFC
+              4071, April 2005,
+              <http://www.rfc-editor.org/info/rfc4071>.
 
-   [ISOC]     Internet Society, "Internet Society By-Laws", February
-              2001,
-              <http://www.isoc.org/isoc/general/trustees/bylaws.shtml>.
+informative 
 
-   [RFC2031]  Huizer, E., "IETF-ISOC relationship", RFC 2031, October
-              1996.
+   [Err232]   RFC Errata, "Erratum ID 232", RFC 3777.
 
-   [RFC2629]  Rose, M., "Writing I-Ds and RFCs using XML", RFC 2629,
-              June 1999.
+   [Err4179]  RFC Errata, "Erratum ID 4179", RFC 3777.
 
-   [RFC2850]  Internet Architecture Board and B. Carpenter, "Charter of
-              the Internet Architecture Board (IAB)", BCP 39, RFC 2850,
-              May 2000.
-
-   [RFC3233]  Hoffman, P. and S. Bradner, "Defining the IETF", BCP 58,
-              RFC 3233, February 2002.
-
-   [RFC3677]  Daigle, L. and Internet Architecture Board, "IETF ISOC
-              Board of Trustee Appointment Procedures", BCP 77, RFC
-              3677, December 2003.
-
-   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710, February
-              2004.
+   [RFC3797]  Eastlake, D., "Publicly Verifiable Nominations Committee
+              (NomCom) Random Selection", RFC 3797, June 2004,
+              <http://www.rfc-editor.org/info/rfc3797>.
 
 
 --- abstract
@@ -84,7 +69,7 @@ informative:
 --- middle
 
 # Introduction
-(NEEDS TO BE UPDATED) Introduction
+(NEEDS TO BE UPDATED)
 
    This document is a revision of and supercedes BCP 10.  It is in
    essence a republishing of [RFC3777] and the other RFCs that updated
@@ -112,13 +97,6 @@ informative:
    them.  The meetings are referred to as the First IETF, Second IETF,
    or Third IETF as needed.
 
-
-
-Kucherawy                 Best Current Practice                 [Page 3]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    The next section lists the words and phrases commonly used throughout
    this document with their intended meaning.
 
@@ -145,7 +123,7 @@ RFC 7437                         NomCom                     January 2015
    An appendix of useful facts and practices collected from previous
    nominating committees is also included.
 
-2.  Definitions
+# Definitions
 
    The following words and phrases are commonly used throughout this
    document.  They are listed here with their intended meaning for the
@@ -166,28 +144,19 @@ RFC 7437                         NomCom                     January 2015
    IETF Executive Director:  The person charged with operation of the
       IETF Secretariat function.  (See Section 2 of [RFC3710]).
 
-
-
-
-
-Kucherawy                 Best Current Practice                 [Page 4]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    nominee:  A person who is being or has been considered for one or
       more open positions of the IESG, IAB, or IAOC.
 
    sitting member:  A person who is currently serving a term of
       membership in the IESG, IAB, or ISOC Board of Trustees.
 
-3.  General
+# General
 
    The following set of rules apply to the process as a whole.  If
    necessary, a paragraph discussing the interpretation of each rule is
    included.
 
-3.1.  Completion Due
+## Completion Due
 
    The completion of the annual process is due within seven months.
 
@@ -214,7 +183,7 @@ RFC 7437                         NomCom                     January 2015
    begin.  This time may be used during unusual circumstances to extend
    the time allocated for any of the components listed above.
 
-3.2.  Nominating Committee Principal Functions
+## Nominating Committee Principal Functions
 
    The principal functions of the nominating committee are to review
    each open IESG, IAB, and IAOC position and to nominate either its
@@ -223,13 +192,6 @@ RFC 7437                         NomCom                     January 2015
    Although there is no term limit for serving in any IESG, IAB, or IAOC
    position, the nominating committee may use length of service as one
    of its criteria for evaluating an incumbent.
-
-
-
-Kucherawy                 Best Current Practice                 [Page 5]
- 
-RFC 7437                         NomCom                     January 2015
-
 
    The nominating committee does not select the open positions to be
    reviewed; it is instructed as to which positions to review.
@@ -248,7 +210,7 @@ RFC 7437                         NomCom                     January 2015
    would contribute in such a way as to improve or enhance the body to
    which he or she is nominated.
 
-3.3.  Positions To Be Reviewed
+## Positions To Be Reviewed
 
    Approximately one-half of each of the then current IESG and IAB
    positions, and one IAOC position, is selected to be reviewed each
@@ -263,7 +225,7 @@ RFC 7437                         NomCom                     January 2015
    new positions, if there are an odd number of current positions, or if
    a member unexpectedly resigns.
 
-3.4.  Term Lengths
+## Term Lengths
 
    Confirmed candidates are expected to serve at least a two-year term.
 
@@ -279,13 +241,6 @@ RFC 7437                         NomCom                     January 2015
    choose one or more of the currently open positions to which it may
    assign a term of not more than three years in order to ensure the
    ideal application of this rule in the future.
-
-
-
-Kucherawy                 Best Current Practice                 [Page 6]
- 
-RFC 7437                         NomCom                     January 2015
-
 
    It is consistent with this rule for the nominating committee to
    choose one or more of the currently open positions that share
@@ -315,7 +270,7 @@ RFC 7437                         NomCom                     January 2015
    For candidates confirmed under the mid-term vacancy rules, the term
    begins as soon as possible after the confirmation.
 
-3.5.  Mid-term Vacancies
+## Mid-term Vacancies
 
    Mid-term vacancies are filled by the same rules as documented here
    with four qualifications, namely:
@@ -335,14 +290,6 @@ RFC 7437                         NomCom                     January 2015
        all other time periods otherwise unspecified prorated
        accordingly.
 
-
-
-
-Kucherawy                 Best Current Practice                 [Page 7]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    3.  The confirming body has two weeks from the day it is notified of
        a candidate to reject the candidate, otherwise the candidate is
        assumed to have been confirmed.
@@ -358,7 +305,7 @@ RFC 7437                         NomCom                     January 2015
    In both cases, a year is the period of time from a First IETF meeting
    to the next First IETF meeting.
 
-3.6.  Confidentiality
+## Confidentiality
 
    All deliberations and supporting information that relates to specific
    nominees, candidates, and confirmed candidates are confidential.
@@ -391,14 +338,6 @@ RFC 7437                         NomCom                     January 2015
 
    The nominating committee may disclose an updated list, at its
    discretion.  For example, the nominating committee might disclose an
-
-
-
-Kucherawy                 Best Current Practice                 [Page 8]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    updated list if it identifies errors/omissions in a previously
    disclosed version of the disclosed list, or if the nominating
    committee finds it necessary to call for additional nominees, and
@@ -414,12 +353,12 @@ RFC 7437                         NomCom                     January 2015
    to the nominating committee but should not post statements of
    support/non-support for nominees in any public forum.
 
-3.7.  Advice and Consent Model
+## Advice and Consent Model
 
    Unless otherwise specified, the advice and consent model is used
    throughout the process.  This model is characterized as follows.
 
-3.7.1.  Positions To Be Reviewed
+### Positions To Be Reviewed
 
    The IETF Executive Director informs the nominating committee of the
    IESG, IAB, and IAOC positions to be reviewed.
@@ -429,14 +368,14 @@ RFC 7437                         NomCom                     January 2015
    open positions to the Executive Director.  The summaries are provided
    to the nominating committee for its consideration.
 
-3.7.2.  Candidate Selection
+### Candidate Selection
 
    The nominating committee selects candidates based on its
    understanding of the IETF community's consensus of the qualifications
    required and advises each confirming body of its respective
    candidates.
 
-3.7.3.  Candidate Review
+### Candidate Review
 
    The confirming bodies review their respective candidates, they may at
    their discretion communicate with the nominating committee, and then
@@ -447,13 +386,6 @@ RFC 7437                         NomCom                     January 2015
    The Internet Society Board of Trustees reviews the IAB candidates.
 
    The IAOC candidate is reviewed as specified in [RFC4071].
-
-
-
-Kucherawy                 Best Current Practice                 [Page 9]
- 
-RFC 7437                         NomCom                     January 2015
-
 
    The confirming bodies conduct their review using all information and
    any means acceptable to them, including but not limited to the
@@ -479,7 +411,7 @@ RFC 7437                         NomCom                     January 2015
    Any additional time required by the nominating committee should not
    exceed its maximum time allotment.
 
-3.7.4.  Confirmation
+### Confirmation
 
    A confirming body decides whether it confirms each candidate using a
    confirmation decision rule chosen by the confirming body.
@@ -501,17 +433,7 @@ RFC 7437                         NomCom                     January 2015
    frame.  The results from the confirming body must be reported
    promptly to the nominating committee.
 
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 10]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-3.8.  Sitting Members
+## Sitting Members
 
    The following rules apply to nominees and candidates who are
    currently sitting members of the IESG, IAB, or IAOC and who are not
@@ -559,21 +481,13 @@ RFC 7437                         NomCom                     January 2015
    3.  The IAB with the new mid-term vacancy requests that the
        nominating committee fill the position.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 11]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    4.  The Executive Director of the IETF informs the nominating
        committee of the mid-term vacancy.
 
    5.  The nominating committee acts on the request to fill the mid-term
        vacancy.
 
-3.9.  Announcements
+## Announcements
 
    All announcements must be made using at least the mechanism used by
    the IETF Secretariat for its announcements, including a notice on the
@@ -583,12 +497,12 @@ RFC 7437                         NomCom                     January 2015
    email message to both the "ietf" and the "ietf-announce" mailing
    lists.
 
-4.  Nominating Committee Selection
+# Nominating Committee Selection
 
    The following set of rules apply to the creation of the nominating
    committee and the selection of its members.
 
-4.1.  Timeline
+## Timeline
 
    The completion of the process of selecting and organizing the members
    of the nominating committee is due within three months.
@@ -598,7 +512,7 @@ RFC 7437                         NomCom                     January 2015
    committee is fully operational and available for interviews and
    consultation during the Third IETF.
 
-4.2.  Term
+## Term
 
    The term of a nominating committee is expected to be 15 months.
 
@@ -614,14 +528,6 @@ RFC 7437                         NomCom                     January 2015
    A term is expected to begin at least two months prior to the Third
    IETF to ensure the nominating committee has at least one month to get
    organized before preparing for the Third IETF.
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 12]
- 
-RFC 7437                         NomCom                     January 2015
-
 
    A nominating committee is expected to complete any work in progress
    before it is dissolved at the end of its term.
@@ -641,7 +547,7 @@ RFC 7437                         NomCom                     January 2015
    a non-voting advisor to the current nominating committee, the
    coordination is expected to be straightforward.
 
-4.3.  Structure
+## Structure
 
    The nominating committee comprises at least a Chair, 10 voting
    volunteers, two liaisons, and an advisor.
@@ -672,18 +578,11 @@ RFC 7437                         NomCom                     January 2015
    The Chair of last year's nominating committee serves as an advisor
    according to rules stated elsewhere in this document.
 
-
-
-Kucherawy                 Best Current Practice                [Page 13]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    The Chair, liaisons, and advisors do not vote on the selection of
    candidates.  They do vote on all other issues before the committee
    unless otherwise specified in this document.
-
-4.4.  Chair Duties
+   
+## Chair Duties
 
    The Chair of the nominating committee is responsible for ensuring the
    nominating committee completes its assigned duties in a timely
@@ -700,7 +599,7 @@ RFC 7437                         NomCom                     January 2015
 
    The Chair does not vote on the selection of candidates.
 
-4.5.  Chair Selection
+## Chair Selection
 
    The Internet Society President appoints the Chair, who must meet the
    same requirements for membership in the nominating committee as a
@@ -717,7 +616,7 @@ RFC 7437                         NomCom                     January 2015
    process can complete at the time specified elsewhere in this
    document.
 
-4.6.  Temporary Chair
+## Temporary Chair
 
    A Chair, in consultation with the Internet Society President, may
    appoint a temporary substitute for the Chair position.
@@ -726,23 +625,14 @@ RFC 7437                         NomCom                     January 2015
    time to time that could result in a Chair being unavailable to
    oversee the activities of the committee.  The Chair, in consultation
    with the Internet Society President, may appoint a substitute from a
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 14]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-   pool comprised of the liaisons currently serving on the committee and
+pool comprised of the liaisons currently serving on the committee and
    the prior year's Chair or designee.
 
    Any such appointment must be temporary and does not absolve the Chair
    of any or all responsibility for ensuring the nominating committee
    completes its assigned duties in a timely fashion.
 
-4.7.  Liaisons
+## Liaisons
 
    Liaisons are responsible for ensuring the nominating committee in
    general and the Chair in particular execute their assigned duties in
@@ -780,31 +670,20 @@ RFC 7437                         NomCom                     January 2015
 
    Liaisons do not vote on the selection of candidates.
 
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 15]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-4.8.  Liaison Appointment
+##  Liaison Appointment
 
    The sitting IAB and IESG members each appoint a liaison from their
    current membership, someone who is not sitting in an open position,
    to serve on the nominating committee.
 
-4.9.  Advisors
+##  Advisors
 
    An advisor is responsible for such duties as specified by the
    invitation that resulted in the appointment.
 
    Advisors do not vote on the selection of candidates.
 
-4.10.  Past Chair
+##  Past Chair
 
    The Chair of the prior year's nominating committee serves as an
    advisor to the current committee.
@@ -834,26 +713,18 @@ RFC 7437                         NomCom                     January 2015
    person serving in that role, whether it is the actual prior year's
    Chair or a designee.
 
-4.11.  Voting Volunteers
+##  Voting Volunteers
 
    Voting volunteers are responsible for completing the tasks of the
    nominating committee in a timely fashion.
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 16]
- 
-RFC 7437                         NomCom                     January 2015
-
-
+   
    Each voting volunteer is expected to participate in all activities of
    the nominating committee with a level of effort approximately equal
    to all other voting volunteers.  Specific tasks to be completed are
    established and managed by the Chair according to rules stated
    elsewhere in this document.
 
-4.12.  Milestones
+##  Milestones
 
    The Chair must establish and announce milestones for the selection of
    the nominating committee members.
@@ -863,7 +734,7 @@ RFC 7437                         NomCom                     January 2015
    which, if met in a timely fashion, will result in the completion of
    the process on time.
 
-4.13.  Open Positions
+## Open Positions
 
    The Chair (or the IETF Executive Director, if no Chair has been named
    four weeks after the First IETF meeting of the year) obtains the list
@@ -895,15 +766,7 @@ RFC 7437                         NomCom                     January 2015
    facilitate community members choosing between volunteering for an
    open position and volunteering for the nominating committee.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 17]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-4.14.  Volunteer Qualification
+##  Volunteer Qualification
 
    Members of the IETF community must have attended at least three of
    the last five IETF meetings in order to volunteer.
@@ -923,7 +786,7 @@ RFC 7437                         NomCom                     January 2015
    working group and especially by serving as a document editor or
    working group chair.
 
-4.15.  Not Qualified
+## Not Qualified
 
    Any person who serves on any of the Internet Society Board of
    Trustees, the IAB, the IESG, or the IAOC, including those who serve
@@ -931,8 +794,8 @@ RFC 7437                         NomCom                     January 2015
    as voting members of the nominating committee.  Liaisons to these
    bodies from other bodies or organizations are not excluded by this
    rule.
-
-4.16.  Selection Process
+   
+##  Selection Process
 
    The Chair announces both the list of the pool of volunteers from
    which the 10 voting volunteers will be randomly selected and the
@@ -951,14 +814,6 @@ RFC 7437                         NomCom                     January 2015
 
    It must be possible to independently verify that the selection method
    used is both fair and unbiased.  A method is fair if each eligible
-
-
-
-Kucherawy                 Best Current Practice                [Page 18]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    volunteer is equally likely to be selected.  A method is unbiased if
    no one can influence its outcome in favor of a specific outcome.
 
@@ -971,7 +826,7 @@ RFC 7437                         NomCom                     January 2015
 
    One possible selection method is described in [RFC3797].
 
-4.17.  Announcement of Selection Results
+##  Announcement of Selection Results
 
    The Chair randomly selects the 10 voting volunteers from the pool of
    names of volunteers and announces the members of the nominating
@@ -1008,13 +863,6 @@ RFC 7437                         NomCom                     January 2015
    serve.  The Chair should make every reasonable effort to contact each
    member.
 
-
-
-Kucherawy                 Best Current Practice                [Page 19]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    o  If the Chair is unable to contact a liaison, the problem is
       referred to the respective organization to resolve.  The Chair
       should allow a reasonable amount of time for the organization to
@@ -1035,7 +883,7 @@ RFC 7437                         NomCom                     January 2015
    members of the nominating committee, which officially begins the term
    of the nominating committee.
 
-4.18.  Committee Organization
+## Committee Organization
 
    The Chair works with the members of the committee to organize itself
    in preparation for completing its assigned duties.
@@ -1057,24 +905,16 @@ RFC 7437                         NomCom                     January 2015
    o  Establishing milestones in order to monitor the progress of the
       selection process.
 
-5.  Nominating Committee Operation
+# Nominating Committee Operation
 
    The following rules apply to the operation of the nominating
    committee.  If necessary, a paragraph discussing the interpretation
    of each rule is included.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 20]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    The rules are organized approximately in the order in which they
    would be invoked.
 
-5.1.  Discretion
+## Discretion
 
    All rules and special circumstances not otherwise specified are at
    the discretion of the committee.
@@ -1091,7 +931,7 @@ RFC 7437                         NomCom                     January 2015
    worthy of mention in the next revision of this document and follow-up
    accordingly.
 
-5.2.  Selection Timeline
+## Selection Timeline
 
    The completion of the process of selecting candidates to be confirmed
    by their respective confirming body is due within three months.
@@ -1100,7 +940,7 @@ RFC 7437                         NomCom                     January 2015
    prior to the First IETF.  This ensures the nominating committee has
    sufficient time to complete the confirmation process.
 
-5.3.  Confirmation Timeline
+## Confirmation Timeline
 
    The completion of the process of confirming the candidates is due
    within one month.
@@ -1108,7 +948,7 @@ RFC 7437                         NomCom                     January 2015
    The completion of the confirmation process is due at least one month
    prior to the First IETF.
 
-5.4.  Milestones
+## Milestones
 
    The Chair must establish a set of nominating committee milestones for
    the candidate selection and confirmation process.
@@ -1120,17 +960,10 @@ RFC 7437                         NomCom                     January 2015
    for iterating the activities of the committee if one or more
    candidates are not confirmed.
 
-
-
-Kucherawy                 Best Current Practice                [Page 21]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    The Chair should ensure that all committee members are aware of the
    milestones.
 
-5.5.  Voting Mechanism
+## Voting Mechanism
 
    The Chair must establish a voting mechanism.
 
@@ -1139,7 +972,7 @@ RFC 7437                         NomCom                     January 2015
    closure must be established and known to all members of the
    nominating committee.
 
-5.6.  Voting Quorum
+##  Voting Quorum
 
    At least a quorum of committee members must participate in a vote.
 
@@ -1150,7 +983,7 @@ RFC 7437                         NomCom                     January 2015
    At all other times, a quorum is present if at least 75% of the
    nominating committee members are participating.
 
-5.7.  Voting Member Recall
+##  Voting Member Recall
 
    Any member of the nominating committee may propose to the committee
    that any other member except the Chair be recalled.  The process for
@@ -1175,14 +1008,6 @@ RFC 7437                         NomCom                     January 2015
    affected organization and must allow a reasonable amount of time for
    a replacement to be identified by the organization before proceeding.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 22]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    If an advisor member other than the prior year's Chair is recalled,
    the committee may choose to proceed without the advisor.  In the case
    of the prior year's Chair, the Internet Society President must be
@@ -1203,7 +1028,7 @@ RFC 7437                         NomCom                     January 2015
    of that volunteer, even if the change would result in more than two
    voting volunteers with the same affiliation.
 
-5.8.  Chair Recall
+##  Chair Recall
 
    Only the prior year's Chair may request the recall of the current
    Chair.
@@ -1219,7 +1044,7 @@ RFC 7437                         NomCom                     January 2015
    year's Chair must report it according to the dispute resolution
    process stated elsewhere in this document.
 
-5.9.  Deliberations
+##  Deliberations
 
    All members of the nominating committee may participate in all
    deliberations.
@@ -1228,18 +1053,7 @@ RFC 7437                         NomCom                     January 2015
    excluded from any deliberation.  However, a member may individually
    choose not to participate in a deliberation.
 
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 23]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-5.10.  Call for Nominees
+##  Call for Nominees
 
    The Chair announces the open positions to be reviewed, the desired
    expertise provided by the IETF Executive Director, and the call for
@@ -1254,7 +1068,7 @@ RFC 7437                         NomCom                     January 2015
    nomination must include the set of skills or expertise the nominator
    believes the nominee has that would be desirable.
 
-5.11.  Nominations
+##  Nominations
 
    Any member of the IETF community may nominate any member of the IETF
    community for any open position, whose eligibility to serve will be
@@ -1277,7 +1091,7 @@ RFC 7437                         NomCom                     January 2015
    or IAOC position during the previous two years are not eligible to be
    considered for filling any open position.
 
-5.12.  Candidate Selection
+##  Candidate Selection
 
    The nominating committee selects candidates based on its
    understanding of the IETF community's consensus of the qualifications
@@ -1286,15 +1100,6 @@ RFC 7437                         NomCom                     January 2015
    The intent of this rule is to ensure that the nominating committee
    consults with a broad base of the IETF community for input to its
    deliberations.  In particular, the nominating committee must
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 24]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    determine if the desired expertise for the open positions matches its
    understanding of the qualifications desired by the IETF community.
 
@@ -1312,7 +1117,7 @@ RFC 7437                         NomCom                     January 2015
 
    Only voting volunteer members vote to select candidates.
 
-5.13.  Consent to Nomination
+##  Consent to Nomination
 
    Nominees should be advised that they are being considered and must
    consent to their nomination prior to being chosen as candidates.
@@ -1339,19 +1144,7 @@ RFC 7437                         NomCom                     January 2015
    The nominating committee should help nominees provide justification
    to their employers.
 
-
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 25]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-5.14.  Notifying Confirming Bodies
+##  Notifying Confirming Bodies
 
    The nominating committee advises the confirming bodies of their
    candidates, specifying a single candidate for each open position and
@@ -1367,7 +1160,7 @@ RFC 7437                         NomCom                     January 2015
    The testimony may include a brief resume of the candidate and/or a
    brief summary of the deliberations of the nominating committee.
 
-5.15.  Confirming Candidates
+##  Confirming Candidates
 
    Confirmed candidates must consent to their confirmation, and rejected
    candidates and nominees must be notified before confirmed candidates
@@ -1389,7 +1182,7 @@ RFC 7437                         NomCom                     January 2015
    The nominating committee must ensure that all confirmed candidates
    are prepared to serve prior to announcing their confirmation.
 
-5.16.  Archives
+## Archives
 
    The nominating committee should archive the information it has
    collected or produced for a period of time but not to exceed its
@@ -1397,15 +1190,6 @@ RFC 7437                         NomCom                     January 2015
 
    The purpose of the archive is to assist the nominating committee
    should it be necessary for it to fill a mid-term vacancy.
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 26]
- 
-RFC 7437                         NomCom                     January 2015
-
 
    The existence of an archive, how it is implemented, and what
    information to archive is at the discretion of the committee.  The
@@ -1416,7 +1200,7 @@ RFC 7437                         NomCom                     January 2015
    to ensure that the confidentiality of the information it contains is
    maintained.
 
-6.  Dispute Resolution Process
+#  Dispute Resolution Process
 
    The dispute resolution process described here is to be used as
    indicated elsewhere in this document.  Its applicability in other
@@ -1455,14 +1239,6 @@ RFC 7437                         NomCom                     January 2015
    2.  The Internet Society President appoints an arbiter to investigate
        and resolve the issue.  A self-appointment is permitted.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 27]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    3.  The arbiter investigates the issue making every reasonable effort
        to understand both sides of the issue.  Since the arbiter is
        subject to the same confidentiality obligations as all nominating
@@ -1487,12 +1263,12 @@ RFC 7437                         NomCom                     January 2015
    7.  The Chair includes the dispute report when reporting on the
        activities of the nominating committee to the IETF community.
 
-7.  Member Recall
+#  Member Recall
 
    The following rules apply to the recall process.  If necessary, a
    paragraph discussing the interpretation of each rule is included.
 
-7.1.  Petition
+##  Petition
 
    At any time, at least 20 members of the IETF community, who are
    qualified to be voting members of a nominating committee, may request
@@ -1510,22 +1286,14 @@ RFC 7437                         NomCom                     January 2015
    signatory is qualified to be a voting member of a nominating
    committee.  A valid petition must be signed by at least 20 qualified
    signatories.
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 28]
- 
-RFC 7437                         NomCom                     January 2015
-
-
+   
    The petition must include a statement of justification for the recall
    and all relevant and appropriate supporting documentation.
 
    The petition and its signatories must be announced to the IETF
    community.
 
-7.2.  Recall Committee Chair
+##  Recall Committee Chair
 
    The Internet Society President shall appoint a Recall Committee
    Chair.
@@ -1534,20 +1302,20 @@ RFC 7437                         NomCom                     January 2015
    It is explicitly the responsibility of the IETF community to evaluate
    the behavior of its leaders.
 
-7.3.  Recall Committee Creation
+##  Recall Committee Creation
 
    The recall committee is created according to the same rules as is the
    nominating committee with the qualifications that both the person
    being investigated and the parties requesting the recall must not be
    a member of the recall committee in any capacity.
 
-7.4.  Recall Committee Rules
+##  Recall Committee Rules
 
    The recall committee operates according to the same rules as the
    nominating committee with the qualification that there is no
    confirmation process.
 
-7.5.  Recall Committee Operation
+##  Recall Committee Operation
 
    The recall committee investigates the circumstances of the
    justification for the recall and votes on its findings.
@@ -1556,26 +1324,17 @@ RFC 7437                         NomCom                     January 2015
    member being recalled to present a written statement and consultation
    with third parties.
 
-7.6.  3/4 Majority
+##  3/4 Majority
 
    A 3/4 majority of the members who vote on the question is required
    for a recall.
 
-7.7.  Position To Be Filled
+##  Position To Be Filled
 
    If a sitting member is recalled, the open position is to be filled
    according to the mid-term vacancy rules.
 
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 29]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-8.  Security Considerations
+#  Security Considerations
 
    Any selection, confirmation, or recall process necessarily involves
    investigation into the qualifications and activities of prospective
@@ -1590,46 +1349,6 @@ RFC 7437                         NomCom                     January 2015
    dissemination must be minimal and must include a prior commitment
    from all persons consulted to observe the same confidentiality rules
    as the nominating committee itself.
-
-9.  References
-
-9.1.  Normative References
-
-   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710, February
-              2004, <http://www.rfc-editor.org/info/rfc3710>.
-
-   [RFC3777]  Galvin, J., "IAB and IESG Selection, Confirmation, and
-              Recall Process: Operation of the Nominating and Recall
-              Committees", BCP 10, RFC 3777, June 2004,
-              <http://www.rfc-editor.org/info/rfc3777>.
-
-   [RFC4071]  Austein, R. and B. Wijnen, "Structure of the IETF
-              Administrative Support Activity (IASA)", BCP 101, RFC
-              4071, April 2005,
-              <http://www.rfc-editor.org/info/rfc4071>.
-
-9.2.  Informative References
-
-   [Err232]   RFC Errata, "Erratum ID 232", RFC 3777.
-
-   [Err4179]  RFC Errata, "Erratum ID 4179", RFC 3777.
-
-   [RFC3797]  Eastlake, D., "Publicly Verifiable Nominations Committee
-              (NomCom) Random Selection", RFC 3797, June 2004,
-              <http://www.rfc-editor.org/info/rfc3797>.
-
-
-
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 30]
- 
-RFC 7437                         NomCom                     January 2015
-
 
 Appendix A.  Changes Since RFC 3777
 
@@ -1679,14 +1398,6 @@ Appendix B.  Oral Tradition
        according to the expectations of the IETF community, as it is
        understood by each nominating committee.
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 31]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    5.  The number of nominating committee members with the same primary
        affiliation is limited in order to avoid the appearance of
        improper bias in choosing the leadership of the IETF.  Rather
@@ -1735,14 +1446,6 @@ Appendix C.  Nominating Committee Timeline
         announced and recognized during a plenary session of the Second
         IETF. [0]
 
-
-
-
-Kucherawy                 Best Current Practice                [Page 32]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    2.   The Chair establishes and announces milestones to ensure the
         timely selection of the nominating committee members. [1]
 
@@ -1787,18 +1490,6 @@ RFC 7437                         NomCom                     January 2015
         of Candidates; Time is at least five months prior to the First
         IETF (approx.  September 22). [0]
 
-
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 33]
- 
-RFC 7437                         NomCom                     January 2015
-
-
    11.  The Chair establishes and announces the milestones to ensure the
         timely selection of the candidates, including a call for
         nominations for the open positions.  The announcement must be
@@ -1830,32 +1521,7 @@ RFC 7437                         NomCom                     January 2015
         must be done no later than one month prior to the First IETF
         (approx.  February 1). [4]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Kucherawy                 Best Current Practice                [Page 34]
- 
-RFC 7437                         NomCom                     January 2015
-
-
-Acknowledgments
+# Acknowledgments
 
    A great deal of work went into the RFCs that preceded this one.  The
    2014 nominating committee and this editor would like to thank all of
@@ -1880,12 +1546,3 @@ Acknowledgments
    previous text from all the merged documents was marshaled correctly
    into this one, and Adrian Farrel and Brian Carpenter caught the nits
    that fell through the cracks.
-
-Author's Address
-
-   Murray S. Kucherawy (editor)
-   270 Upland Drive
-   San Francisco, CA  94127
-   United States
-
-   EMail: superuser@gmail.com
