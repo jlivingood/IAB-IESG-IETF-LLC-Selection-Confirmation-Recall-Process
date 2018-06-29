@@ -18,6 +18,11 @@ pi: [toc, sortrefs, symrefs]
 
 author:
   -
+    ins: B. Haberman
+    name: Brian Haberman
+    organization: Johns Hopkins University
+    email: brian@innovationslab.net
+  -
     ins: J. Hall
     name: Joseph Lorenzo Hall
     organization: CDT
